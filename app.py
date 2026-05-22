@@ -544,7 +544,13 @@ async def clear_storage():
 
 # --- Run ----------------------------------------------------------------
 if __name__ == "__main__":
+    import os
     import uvicorn
 
-    port = int(os.getenv("PORT", 8000))
-    uvicorn.run("app:app", host="0.0.0.0", port=port, reload=False)
+    port = int(os.environ.get("PORT", 10000))
+
+    uvicorn.run(
+        "app:app",
+        host="0.0.0.0",
+        port=port
+    )
