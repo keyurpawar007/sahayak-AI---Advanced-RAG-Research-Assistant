@@ -15,3 +15,4 @@ pandas
 requests
 uvicorn
 fastapi
+pymupdf4llm
