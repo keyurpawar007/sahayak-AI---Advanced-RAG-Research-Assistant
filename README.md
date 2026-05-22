@@ -6,15 +6,17 @@ The name *Sahayak* means **helper/assistant** in Hindi, which is exactly what th
 
 ---# Sahayak AI
 
+# Sahayak AI
+
 ## Screenshots
 
-![Home](images/1.png)
+<img src="images/1.png" width="800"/>
 
-![Chat UI](images/2.png)
+<img src="images/2.png" width="800"/>
 
-![Research Output](images/3.png)
+<img src="images/3.png" width="800"/>
 
-![Features](images/4.png)
+<img src="images/4.png" width="800"/>
 
 ## Why I built this
 
