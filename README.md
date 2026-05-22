@@ -4,7 +4,17 @@ Sahayak AI is a RAG (Retrieval-Augmented Generation) based document assistant. Y
 
 The name *Sahayak* means **helper/assistant** in Hindi, which is exactly what this project is — a personal document helper powered by local or cloud LLMs.
 
----
+---# Sahayak AI
+
+## Screenshots
+
+![Home](images/1.png)
+
+![Chat UI](images/2.png)
+
+![Research Output](images/3.png)
+
+![Features](images/4.png)
 
 ## Why I built this
 
